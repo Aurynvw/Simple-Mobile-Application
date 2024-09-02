@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678191997367",
+    "project_id": "bootcampbncc-7a8e7",
+    "storage_bucket": "bootcampbncc-7a8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678191997367:android:e292d964186cbfb582c832",
+        "android_client_info": {
+          "package_name": "com.example.bootcampbncc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcZ7Qem9_ade6ZJ-cEDumHcke-JW71aX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
